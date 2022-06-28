@@ -1,0 +1,17 @@
+c:\users\zesha\documents\visual studio 2010\Projects\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.exe
+c:\users\zesha\documents\visual studio 2010\Projects\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.pdb
+c:\users\zesha\documents\visual studio 2010\Projects\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.xml
+c:\users\zesha\documents\visual studio 2010\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.Resources.resources
+c:\users\zesha\documents\visual studio 2010\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.vbproj.GenerateResource.Cache
+c:\users\zesha\documents\visual studio 2010\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.exe
+c:\users\zesha\documents\visual studio 2010\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.xml
+c:\users\zesha\documents\visual studio 2010\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.pdb
+C:\Users\Zesha\documents\visual studio 2010\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.login.resources
+C:\Users\Zesha\documents\visual studio 2010\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.main_menu.resources
+C:\Users\Zesha\documents\visual studio 2010\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.vbprojResolveAssemblyReference.cache
+C:\Users\Zesha\documents\visual studio 2010\Projects\Perpustakaan\Perpustakaan\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Zesha\documents\visual studio 2010\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.myprofile.resources
+C:\Users\Zesha\documents\visual studio 2010\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.mngbook.resources
+C:\Users\Zesha\documents\visual studio 2010\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.mnguser.resources
+C:\Users\Zesha\documents\visual studio 2010\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.mybook.resources
+C:\Users\Zesha\documents\visual studio 2010\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.peminjaman.resources
