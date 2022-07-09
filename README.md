@@ -5,4 +5,4 @@
 
 Link Yt : https://youtu.be/Jhf4LkBd3fM
 
-Aplikasi ini adalah aplikasi dekstop yang digunakan untuk peminjaman buju di Perpustakaan
+Aplikasi ini adalah aplikasi dekstop yang digunakan untuk peminjaman buku di Perpustakaan
